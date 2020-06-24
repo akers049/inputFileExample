@@ -1,0 +1,18 @@
+# Example Input File.
+# if the line starts in '#' it gets ignored
+
+# Also ignores blank lines
+  
+# First input is a string:
+dinosaurs
+
+# second input is an int
+5
+
+# then another int 
+6
+
+# then a couple doubles
+3.14159265358926 2.71828182845904
+
+# thats all!
